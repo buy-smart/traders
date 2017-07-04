@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: traders
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: harish
+Implementation-Vendor-Id: com.traders
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/traders/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
